@@ -24,7 +24,7 @@ import javax.swing.ScrollPaneConstants;
 public class CaesarGUI extends JFrame implements ActionListener {
  
         private static final long serialVersionUID = 1L;
-        private static String alphabet = "abcdefghijklmnopqrstuvwxyz";
+        private static String alphabet = "abcdefghijklmnopqrstuvwxyz 1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+=-{}|[];':\"\\,./<>?";
         private JTextField shiftFactor;
         private JTextArea inputTA;
         private JTextArea outputTA;
